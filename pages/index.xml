@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Cleantech Spak</title>
+    <link>https://cleantechspark.com/pages/</link>
+    <description>Recent content in Pages on Cleantech Spak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jun 2018 23:18:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://cleantechspark.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://cleantechspark.com/pages/about/</link>
+      <pubDate>Fri, 08 Jun 2018 23:18:37 +0000</pubDate>
+      
+      <guid>https://cleantechspark.com/pages/about/</guid>
+      <description>Cleantech Spark
+What is Cleantech Spark?
+Cleantech Spark is a place where founders, employees, investors, and can share their stories and inspire others to participate in the cleantech revolution.
+Clean technology ois Scientists have identified the problems, researchers have come up with ideas for solutions. Now it&amp;rsquo;s
+TODO: Add links in bio.
+What is Cleantech Making the world cleaner with technology.</description>
+    </item>
+    
+    <item>
+      <title>Jobs</title>
+      <link>https://cleantechspark.com/pages/jobs/</link>
+      <pubDate>Fri, 08 Jun 2018 15:46:09 -0700</pubDate>
+      
+      <guid>https://cleantechspark.com/pages/jobs/</guid>
+      <description>Jobs
+Looking for a job in the Cleantech industry?
+Join our curated monthly email of cleantech jobs matching your skills.
+# Looking for a job with a cleantech startup?
+Join our curated weekly newsletter. Every Tuesday we send out a listing of jobs in cleantech startups based on your profession.
+Signup List
+Software Development
+Marketing
+Other -&amp;gt; Gives a form to suggest what they want.</description>
+    </item>
+    
+  </channel>
+</rss>
