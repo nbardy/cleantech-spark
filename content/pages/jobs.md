@@ -1,6 +1,5 @@
 ---
-title: "Jobs"
-date: 2018-06-08T15:46:09-07:00
-draft: true
----
+title: Jobs
+date: 2018-06-08 15:46:09 -0700
 
+---
